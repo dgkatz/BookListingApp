@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#40dfff</color>
+    <color name="listItemBookTitle">#2b2a2a</color>
+    <color name="buttonTextColor">#ffffff</color>
+    <color name="buttonBackgroundColor">@color/colorPrimary</color>
+    <color name="searchEditTextHintColor">#939191</color>
+</resources>

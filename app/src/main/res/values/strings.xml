@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Book Listing App</string>
+    <string name="by">Author:</string>
+    <string name="main_activity_instruction_text">Enter search criteria below to search google books.</string>
+    <string name="main_title_title_text">Book title</string>
+    <string name="main_author_title_text">Author</string>
+    <string name="main_subject_title_text">Subject</string>
+    <string name="main_search_button_text">Search</string>
+    <string name="main_clear_button_text">Clear</string>
+    <string name="previous_page">prev</string>
+    <string name="next_page">next</string>
+    <string name="loading_book_data">Getting more books</string>
+    <string name="title_search_instruction">Search books by title</string>
+    <string name="author_search_instruction">Search books by author</string>
+    <string name="category_search_instruction">Search books by category</string>
+    <string name="edit_text_hint">Enter text to search here</string>
+    <string name="no_description">* No description available.</string>
+    <string name="MAIN_QUERY_URL">https://www.googleapis.com/books/v1/volumes?q=</string>
+    <string name="TITLE_QUERY_URL">+intitle:</string>
+    <string name="AUTHOR_QUERY_URL">+inauthor:</string>
+    <string name="SUBJECT_QUERY_URL">+subject:</string>
+    <string name="INDEX_URL">&amp;startIndex=</string>
+    <string name="MAX_RESULTS_URL">&amp;maxResults=</string>
+    <string name="no_data">No books were found matching your search criteria.\n\nPlease try a new search.\n</string>
+    <string name="no_input_toast_message">Please enter at least one character in the search fields.</string>
+</resources>
